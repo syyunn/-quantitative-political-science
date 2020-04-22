@@ -9,3 +9,6 @@ http://www.cs.columbia.edu/~blei/papers/GerrishBlei2012.pdf
 - explore how a lawmaker’s voting patterns deviate from what is expected 
 - how that deviation depends on what is being voted on.
 - 
+### Assumption:
+- Voting behavior exhibits enough regularity that simple statistical models
+- 
