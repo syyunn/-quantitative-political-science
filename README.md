@@ -6,5 +6,6 @@
 http://www.cs.columbia.edu/~blei/papers/GerrishBlei2012.pdf
 
 ### Goal: 
-- explore how a lawmaker’s voting patterns deviate from what is expected and how that deviation depends on what is being voted on.
+- explore how a lawmaker’s voting patterns deviate from what is expected 
+- how that deviation depends on what is being voted on.
 - 
